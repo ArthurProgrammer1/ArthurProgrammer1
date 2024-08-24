@@ -36,5 +36,3 @@ If you're new to programming and don't know where to start, feel free to check o
 > “Coding is like magic; you create something out of nothing!” ✨
 
 ---
-
-![Footer Image](https://yourimageurl.com/footer.png)
