@@ -1,7 +1,5 @@
 # Hello, World! 🌍
 
-![Welcome Banner](https://yourimageurl.com/banner.png)
-
 I'm a **12-year-old programmer** passionate about coding and always eager to learn new things. I want to encourage others, especially kids, to dive into the amazing world of programming! 💻
 
 ## What I Do 🚀
@@ -26,11 +24,8 @@ Programming is not just about writing code—it's about solving problems, thinki
 
 ## Connect with Me 📬
 
-- Follow me on [GitHub](https://github.com/yourusername)
-- Check out my [portfolio](https://yourportfolio.com)
+- Follow me on [GitHub](https://github.com/ArthurProgrammer1)
 - Join the coding fun and start your journey today!
-
-![Coding Fun](https://yourimageurl.com/codingfun.png)
 
 ## Let’s Code Together! 💡
 
