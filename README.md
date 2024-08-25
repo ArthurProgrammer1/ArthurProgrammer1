@@ -1,39 +1,94 @@
-# Hello, World! 🌍
+# Welcome to My World of Code! 🌍
 
-I'm a **12-year-old programmer** passionate about coding and always eager to learn new things. I want to encourage others, especially kids, to dive into the amazing world of programming! 💻
+## About Me 👋
 
-## What I Do 🚀
-
-- **Programming in Python**: I love creating fun and useful projects using Python! 🐍
-- **Web Development**: I also dabble in HTML to build cool websites. 🌐
-
-## Why You Should Start Programming 🤔
-
-Programming is not just about writing code—it's about solving problems, thinking creatively, and building something awesome from scratch! Whether it's games, websites, or bots, programming lets you bring your ideas to life.
-
-### My Favorite Projects
-
-1. **Python Games**: Simple and fun games like Hangman and Tic-Tac-Toe. 🎮
-2. **Web Pages**: Basic HTML websites that show how easy it is to get started! 🌈
-
-## How You Can Start
-
-1. **Learn the Basics**: Start with Python or HTML—both are beginner-friendly!
-2. **Build Simple Projects**: Create a small game or a webpage.
-3. **Ask for Help**: Don’t be afraid to ask questions—programming communities are super helpful!
-
-## Connect with Me 📬
-
-- Follow me on [GitHub](https://github.com/ArthurProgrammer1)
-- Join the coding fun and start your journey today!
-
-## Let’s Code Together! 💡
-
-If you're new to programming and don't know where to start, feel free to check out my repositories or send me a message. Let's learn and grow together in this exciting journey of coding!
+Hey there! I'm **Arthur**, a **12-year-old programmer** from Ukraine, currently studying at **Trinity Academy** in Edinburgh. My journey into the world of coding began early, driven by curiosity and a passion for creating digital magic. I specialize in **Python programming** and **web development** and am constantly exploring new technologies and frameworks to expand my skill set.
 
 ---
 
-> “Coding is like magic; you create something out of nothing!” ✨
+## 🚀 Skills and Technologies
+
+- **Languages**: Python, HTML, CSS, JavaScript
+- **Frameworks & Libraries**: Flask, Django, Streamlit
+- **Tools & Platforms**: Git, GitHub, VS Code, PyCharm
+- **Other Skills**: Web Design, Automation
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurProgrammer1&hide=contribs,prs)
+
+## 🔥 Featured Projects
+
+Here are some of the cool projects I've worked on:
+
+### 1. **Interactive Web Portfolios** 🌐
+- **Description**: Created stunning web portfolios using **HTML**, **CSS**, and **JavaScript** to showcase my projects and experiments.
+- **Highlights**: Focused on responsive design, user experience, and integrating modern web practices.
+- **Repository**: [Web Portfolio Projects](https://github.com/ArthurProgrammer1/web-portfolio)
+
+### 2. **Automation Scripts** 🤖
+- **Description**: Built automation scripts in Python to simplify everyday tasks like organizing files and automating web actions.
+- **Highlights**: Leveraged libraries like `Selenium` and `os` to create efficient and time-saving tools.
+- **Repository**: [Python Automation Scripts](https://github.com/ArthurProgrammer1/automation-scripts)
+
+### 3. **Personal Website using Streamlit** 🌟
+- **Description**: Designed and developed a personal website using **Streamlit**, a powerful app framework in Python.
+- **Highlights**: The site features interactive elements, animations, and a modern design aesthetic.
+- **Repository**: [Streamlit Personal Website](https://github.com/ArthurProgrammer1/streamlit-website)
+
+---
+
+## 🎓 Education and Learning Path
+
+Currently studying at **Trinity Academy** in Edinburgh, I'm passionate about combining my academic knowledge with hands-on coding experience. I’m constantly learning and evolving, participating in coding boot camps, online courses, and hackathons to refine my skills.
+
+---
+
+## 🌱 What I’m Learning Now
+
+- **Deepening Python Knowledge**: Advanced topics like data analysis with `pandas` and machine learning basics.
+- **JavaScript Frameworks**: Diving into **React.js** to build dynamic front-end applications.
+- **APIs and Back-End Development**: Exploring RESTful services and back-end frameworks like **Django**.
+
+---
+
+## 🌐 Connect with Me
+
+I love collaborating and sharing knowledge! Let's connect and build something amazing together:
+
+- **GitHub**: [ArthurProgrammer1](https://github.com/ArthurProgrammer1)
+- **LinkedIn**: [Arthur's LinkedIn](https://www.linkedin.com/in/arthurprogrammer1)
+- **Twitter**: [@ArthurCodes](https://twitter.com/ArthurCodes)
+- **Personal Website**: [arthurcodes.dev](https://arthurcodes.dev)
+
+---
+
+## 🏆 GitHub Stats
+
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurProgrammer1&show_icons=true&theme=radical)
+
+---
+
+## 🖥️ My Development Setup
+
+- **OS**: Ubuntu Linux / Windows 10
+- **Editor**: Visual Studio Code, PyCharm
+- **Version Control**: Git & GitHub
+
+---
+
+## 🧠 Fun Facts About Me
+
+- **Favorite Coding Language**: Python! 🐍
+- **Favorite Python Library**: `asyncio` — I love how this library makes it easy to write **asynchronous** code in Python, allowing for efficient and smooth multitasking. It’s perfect for projects where performance matters, like handling multiple tasks or managing network operations seamlessly!
+- **Hobbies**: Besides coding, I love chess, boxing, and exploring nature.
+
+---
+
+## 🌈 Let's Create Something Awesome Together!
+
+I'm always looking for exciting new projects and collaborations. If you have an idea or want to team up on something cool, feel free to reach out!
+
+---
+
+> **"Coding isn’t just about writing code. It’s about creating solutions, bringing ideas to life, and making the world a better place."** ✨
+
+![Footer Image](https://images.unsplash.com/photo-1519330267732-4b7b9e3a68f0)
