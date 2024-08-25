@@ -2,14 +2,14 @@
 
 ## About Me 👋
 
-Hey there! I'm **Arthur**, a **12-year-old programmer** from Ukraine, currently studying at **Trinity Academy** in Edinburgh. My journey into the world of coding began early, driven by curiosity and a passion for creating digital magic. I specialize in **Python programming** and **web development** and am constantly exploring new technologies and frameworks to expand my skill set.
+Hey there! I'm **Arthur**, a **12-year-old programmer** from Ukraine, currently studying at **Trinity Academy** in Edinburgh. My journey into the world of coding began early, driven by curiosity and a passion for creating digital magic. I specialize in **Python programming**, **web development**, and developing **Telegram bots** using `aiogram` and `telebot`. I'm constantly exploring new technologies and frameworks to expand my skill set.
 
 ---
 
 ## 🚀 Skills and Technologies
 
 - **Languages**: Python, HTML, CSS, JavaScript
-- **Frameworks & Libraries**: Flask, Django, Streamlit
+- **Frameworks & Libraries**: Flask, Django, Streamlit, `aiogram`, `telebot`
 - **Tools & Platforms**: Git, GitHub, VS Code, PyCharm
 - **Other Skills**: Web Design, Automation
 
@@ -19,17 +19,22 @@ Hey there! I'm **Arthur**, a **12-year-old programmer** from Ukraine, currently 
 
 Here are some of the cool projects I've worked on:
 
-### 1. **Interactive Web Portfolios** 🌐
+### 1. **Telegram Bots** 🤖
+- **Description**: Developed multiple Telegram bots using `aiogram` and `telebot` to automate tasks, provide useful functionalities, and interact with users.
+- **Highlights**: Leveraged Python’s asynchronous capabilities with `aiogram` to handle multiple users seamlessly and used `telebot` for simple bot solutions.
+- **Repository**: [Telegram Bots](https://github.com/ArthurProgrammer1/telegram-bots)
+
+### 2. **Interactive Web Portfolios** 🌐
 - **Description**: Created stunning web portfolios using **HTML**, **CSS**, and **JavaScript** to showcase my projects and experiments.
 - **Highlights**: Focused on responsive design, user experience, and integrating modern web practices.
 - **Repository**: [Web Portfolio Projects](https://github.com/ArthurProgrammer1/web-portfolio)
 
-### 2. **Automation Scripts** 🤖
+### 3. **Automation Scripts** 🛠️
 - **Description**: Built automation scripts in Python to simplify everyday tasks like organizing files and automating web actions.
 - **Highlights**: Leveraged libraries like `Selenium` and `os` to create efficient and time-saving tools.
 - **Repository**: [Python Automation Scripts](https://github.com/ArthurProgrammer1/automation-scripts)
 
-### 3. **Personal Website using Streamlit** 🌟
+### 4. **Personal Website using Streamlit** 🌟
 - **Description**: Designed and developed a personal website using **Streamlit**, a powerful app framework in Python.
 - **Highlights**: The site features interactive elements, animations, and a modern design aesthetic.
 - **Repository**: [Streamlit Personal Website](https://github.com/ArthurProgrammer1/streamlit-website)
