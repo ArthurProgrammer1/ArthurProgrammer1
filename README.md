@@ -22,22 +22,18 @@ Here are some of the cool projects I've worked on:
 ### 1. **Telegram Bots** 🤖
 - **Description**: Developed multiple Telegram bots using `aiogram` and `telebot` to automate tasks, provide useful functionalities, and interact with users.
 - **Highlights**: Leveraged Python’s asynchronous capabilities with `aiogram` to handle multiple users seamlessly and used `telebot` for simple bot solutions.
-- **Repository**: [Telegram Bots](https://github.com/ArthurProgrammer1/telegram-bots)
 
 ### 2. **Interactive Web Portfolios** 🌐
 - **Description**: Created stunning web portfolios using **HTML**, **CSS**, and **JavaScript** to showcase my projects and experiments.
 - **Highlights**: Focused on responsive design, user experience, and integrating modern web practices.
-- **Repository**: [Web Portfolio Projects](https://github.com/ArthurProgrammer1/web-portfolio)
 
 ### 3. **Automation Scripts** 🛠️
 - **Description**: Built automation scripts in Python to simplify everyday tasks like organizing files and automating web actions.
 - **Highlights**: Leveraged libraries like `Selenium` and `os` to create efficient and time-saving tools.
-- **Repository**: [Python Automation Scripts](https://github.com/ArthurProgrammer1/automation-scripts)
 
 ### 4. **Personal Website using Streamlit** 🌟
 - **Description**: Designed and developed a personal website using **Streamlit**, a powerful app framework in Python.
 - **Highlights**: The site features interactive elements, animations, and a modern design aesthetic.
-- **Repository**: [Streamlit Personal Website](https://github.com/ArthurProgrammer1/streamlit-website)
 
 ---
 
@@ -52,17 +48,6 @@ Currently studying at **Trinity Academy** in Edinburgh, I'm passionate about com
 - **Deepening Python Knowledge**: Advanced topics like data analysis with `pandas` and machine learning basics.
 - **JavaScript Frameworks**: Diving into **React.js** to build dynamic front-end applications.
 - **APIs and Back-End Development**: Exploring RESTful services and back-end frameworks like **Django**.
-
----
-
-## 🌐 Connect with Me
-
-I love collaborating and sharing knowledge! Let's connect and build something amazing together:
-
-- **GitHub**: [ArthurProgrammer1](https://github.com/ArthurProgrammer1)
-- **LinkedIn**: [Arthur's LinkedIn](https://www.linkedin.com/in/arthurprogrammer1)
-- **Twitter**: [@ArthurCodes](https://twitter.com/ArthurCodes)
-- **Personal Website**: [arthurcodes.dev](https://arthurcodes.dev)
 
 ---
 
@@ -84,7 +69,7 @@ I love collaborating and sharing knowledge! Let's connect and build something am
 
 - **Favorite Coding Language**: Python! 🐍
 - **Favorite Python Library**: `asyncio` — I love how this library makes it easy to write **asynchronous** code in Python, allowing for efficient and smooth multitasking. It’s perfect for projects where performance matters, like handling multiple tasks or managing network operations seamlessly!
-- **Hobbies**: Besides coding, I love chess, boxing, and exploring nature.
+- **Hobbies**: Besides coding, I love chess, boxing, and I really enjoy Fishing.
 
 ---
 
