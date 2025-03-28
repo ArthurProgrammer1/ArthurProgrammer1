@@ -80,5 +80,3 @@ I'm always looking for exciting new projects and collaborations. If you have an 
 ---
 
 > **"Coding isn’t just about writing code. It’s about creating solutions, bringing ideas to life, and making the world a better place."** ✨
-
-![Footer Image](https://images.unsplash.com/photo-1519330267732-4b7b9e3a68f0)
