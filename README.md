@@ -2,7 +2,7 @@
 
 ## About Me 
 
-Hey there! I'm **Arthur**, a **12-year-old programmer** from Ukraine, currently studying at **Trinity Academy** in Edinburgh. My journey into the world of coding began early, driven by curiosity and a passion for creating digital magic. I specialize in **Python programming**, **web development**, and developing **Telegram bots** using `aiogram` and `telebot`. I'm constantly exploring new technologies and frameworks to expand my skill set.
+Hey there! I'm **Arthur**, a **13-year-old programmer** from Ukraine, currently studying at **Trinity Academy** in Edinburgh. My journey into the world of coding began early, driven by curiosity and a passion for creating digital magic. I specialize in **Python programming**, **web development**, and developing **Telegram bots** using `aiogram` and `telebot`. I'm constantly exploring new technologies and frameworks to expand my skill set.
 
 ---
 
